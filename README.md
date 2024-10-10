@@ -1,5 +1,8 @@
 <h1 align="center"><b>Better ChatGPT</b></h1>
 
+> [!Note]
+> Same as the original BetterChatGPT but I will merge your pull requests.
+
 <p align="center">
    English Version |
    <a href="README-zh_CN.md">
